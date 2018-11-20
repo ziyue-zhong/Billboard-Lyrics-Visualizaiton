@@ -8,9 +8,9 @@ https://www.kaggle.com/rakannimer/billboard-lyrics
 
 ## Project Details
 
-First, I used python to process the excel data file which contains 4583 songs.I used NLTK to tokenize the lyrics into tokens. Then, I removed the stop words, numbers and transformed all the text into lower case. In order to prepare the data for visualization, I also reshape the dataset in python to make sure each token is represented as an individual record in excel.
+First, I used python to process the excel data file which contains 4583 songs. I used NLTK package to tokenize the lyrics into tokens. Then, I removed the stop words, numbers and transformed all the text into lower case. In order to prepare the data for visualization in tableau, I also reshape the dataset in python to make sure each token is represented as an individual record in the data.
 
-I created the visualization in tableau. In detail, I created the word map which shows the frequent word appeared in lyrics of a specific song or in a specific year. Also, I drill down to show the trend of word 'love' during each time period. And also look at another dimension by identifying the popular artisit during the last 50 years.
+I then build the visualization in tableau. In order to make the information straightforward, I created the word map which shows the most frequent words appeared in lyrics of a specific song or in a specific year. Also, I drill down to show the trend of word 'love' during each time period. Also, I look at other dimensions by identifying the popular artisits in the last 50 years.
 
-You can see my work using this link: https://www.kaggle.com/rakannimer/billboard-lyrics
+You can see the interactive viz through this link: https://www.kaggle.com/rakannimer/billboard-lyrics
 
