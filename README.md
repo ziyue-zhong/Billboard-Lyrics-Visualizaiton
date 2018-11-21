@@ -12,5 +12,5 @@ First, I used python to process the excel data file which contains 4583 songs. I
 
 I then build the visualization in tableau. In order to make the information straightforward, I created the word map which shows the most frequent words appeared in lyrics of a specific song or in a specific year. Also, I drill down to show the trend of word 'love' during each time period. Also, I look at other dimensions by identifying the popular artisits in the last 50 years.
 
-You can see the interactive viz through this link: https://www.kaggle.com/rakannimer/billboard-lyrics
+You can see the interactive viz through this link: https://public.tableau.com/profile/ziyue.zhong#!/vizhome/1965-2015BillboardHOT100SongsAnalysis/Dashboard2
 
